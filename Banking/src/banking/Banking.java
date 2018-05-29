@@ -19,9 +19,10 @@ public class Banking {
         System.out.println("Banking Application");
         System.out.println("Menu");
         System.out.println("1.Create a account");
-        System.out.println("Menu");
-        System.out.println("Menu");
-        System.out.println("Menu");
+        System.out.println("2.Deposit amount");
+        System.out.println("3.Withdraw amount");
+        System.out.println("4.Transfer amount");
+        System.out.println("5.");
     }
     
 }
